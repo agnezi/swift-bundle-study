@@ -2,7 +2,7 @@
 //  MoonshotApp.swift
 //  Moonshot
 //
-//  Created by Jonas Agnezi on 27/09/22.
+//  Created by agnezi.io on 27/09/22.
 //
 
 import SwiftUI
